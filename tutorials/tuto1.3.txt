@@ -1,4 +1,4 @@
-fun main() {
+fun tutorials.main() {
     fun birthdayGreeting(name: String = "Rover", age: Int): String {
         return "Happy Birthday, $name! You are now $age years old!"
     }

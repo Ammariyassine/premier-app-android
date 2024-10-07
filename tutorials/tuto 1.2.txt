@@ -1,4 +1,4 @@
-fun main() {
+fun tutorials.main() {
     val number: Int = 5
     println(number)
     val name: String = "yassine"
@@ -10,7 +10,7 @@ fun main() {
     println("$number + $number1 = ${number + number1}")
 }
 
-fun main() {
+fun tutorials.main() {
     var count: Int = 5
     count = count + 1
     count++
